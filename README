@@ -1,5 +1,7 @@
 A very simple PHP library for the Rdio Web Service API.
 
-State is stored in the standard PHP session. Look at hello.php for an example.
+Depends on the PECL OAuth library. 
+State is stored in the standard PHP session.
+Look at hello.php for an example.
 
 Thanks to Andy Soell for some good example code.
